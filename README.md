@@ -1,1 +1,1 @@
-* Insider'ın QA bootcamp projesidir.
+* It is Insider's QA bootcamp project.
